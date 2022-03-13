@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "amber.sk",
+      "host": "api.amber.sk",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
